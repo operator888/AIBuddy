@@ -1,3 +1,5 @@
-# AIBuddy
+# AIBuddy - Your Digital Companion
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/operator888/AIBuddy)
+AIBuddy is a friendly AI-powered chat application designed to be your digital friend. Have meaningful conversations, share your thoughts, and enjoy the company of an intelligent companion that's always there for you.
+
+Check it out at [AIBuddy] ()
